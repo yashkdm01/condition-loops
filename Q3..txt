@@ -1,0 +1,14 @@
+Q3.
+Ans.Loops are control flow structures in programming that allow you to execute a block of code repeatedly based on a certain condition. They are essential for automating repetitive tasks and processing collections of data such as arrays or lists.
+
+Here are the main types of loops in most programming languages along with their syntax and examples:
+1.for loop: A for loop is used when you know the number of times you want to execute a block of code.
+2.while loop: A while loop is used when you want to execute a block of code repeatedly as long as a condition is true.
+3.do...while loop: A do...while loop is similar to a while loop, but it guarantees that the code block is executed at least once before the condition is tested.
+4.for...in loop: A for...in loop is used to iterate over the properties of an object.
+5.for...of loop: A for...of loop is used to iterate over iterable objects such as arrays, strings, or other iterable objects.
+
+These loops provide flexibility and power in programming, allowing you to efficiently handle different types of iterations and repetitive tasks. They are essential for implementing algorithms, processing data, and controlling the flow of your programs.
+
+
+
